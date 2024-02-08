@@ -5,7 +5,7 @@ Usage
 
 First clone this repo and go to the project root.
 
-    $ git clone git@github.com:hafizurrahman/Django-Authentication.git
+    $ git clone https://github.com/hafizurrahmanomar/Django-Authentication.git
     $ cd Django-Authentication
 
 
